@@ -1,0 +1,19 @@
+# CMake 빌드 결과
+build/
+Source/build/
+out/
+
+# Visual Studio / VS Code
+.vs/
+*.user
+
+# 컴파일 과정 실습에서 생기는 중간 파일
+*.i
+*.ii
+*.s
+*.asm
+*.obj
+*.o
+*.exe
+a.out
+calc
